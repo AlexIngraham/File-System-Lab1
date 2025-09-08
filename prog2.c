@@ -113,7 +113,7 @@ void list_directory(const char *dir_path, int detail)
 * @argc: Argument count
 * @argv: Argument vector
 *
-* Returns: 0 on success, -1 on failure
+* Returns: 0 on success, -1 on failurei
 */
 int main(int argc, char *argv[])
 {
